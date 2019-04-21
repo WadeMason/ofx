@@ -4,6 +4,7 @@ A simple OFX <=> JS object parser/serializer inspired by [node-js](https://githu
 
 ![npm](https://img.shields.io/npm/v/@wademason/ofx.svg)
 ![Travis (.org)](https://img.shields.io/travis/WadeMason/ofx.svg)
+![Codecov](https://img.shields.io/codecov/c/github/WadeMason/ofx.svg)
 
 ## Installation
 
