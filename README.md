@@ -2,6 +2,9 @@
 
 A simple OFX <=> JS object parser/serializer inspired by [node-js](https://github.com/chilts/node-ofx), [ofx-js](https://github.com/bradenmacdonald/ofx-js), and [Banking.js](https://github.com/euforic/banking.js/)
 
+![npm](https://img.shields.io/npm/v/@wademason/ofx.svg)
+![Travis (.org)](https://img.shields.io/travis/WadeMason/ofx.svg)
+
 ## Installation
 
 ```bash
