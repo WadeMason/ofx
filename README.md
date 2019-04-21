@@ -36,7 +36,7 @@ const ofx = require('@wademason/ofx')
 const file = fs.readFileSync(`${__dirname}/file.ofx`, 'utf8')
 
 const obj = ofx.parse(file)
-const str = ofx.serialize(obj)
+const str = ofx.serialize(obj.headers, obj.body)
 
 console.log(str)
 ```
