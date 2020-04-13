@@ -5,7 +5,7 @@
     "node": true,
     "jest": true
   },
-  "extends": ["airbnb-base", "prettier"],
+  "extends": ["eslint:recommended", "prettier"],
   "globals": {
     "Atomics": "readonly",
     "SharedArrayBuffer": "readonly"
